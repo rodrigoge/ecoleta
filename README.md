@@ -51,7 +51,7 @@ Clone ou faça o downlod desse repositório:
 
 ```
 # Clone o repositório
-$ git clone https://github.com/rosooares/nextlevelweek
+$ git clone https://github.com/rodrigoge/ecoleta
 ```
 
 Acesse a pasta server e faça as instalações:
